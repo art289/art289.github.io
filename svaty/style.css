@@ -1,0 +1,97 @@
+/* .menu-item{
+    margin-right: 20px;
+    margin-top: 30px;
+    
+}
+.menu-item>a{
+    color: rgb(8, 75, 2);
+    font-weight: 900;
+}
+.menu-item>a:hover{
+    color: rgb(74, 139, 9);
+}
+.text-logo{
+text-shadow: 0 0 10px green;
+font-weight:800;
+margin: 30px;
+letter-spacing: 3px;
+font-family: 'Nunito', sans-serif;
+}
+.text-logo:hover{
+    
+}
+
+.header{
+    background-color: rgb(247, 230, 3);
+} */
+p{
+font-family: 'Montserrat Alternates', sans-serif;
+ 
+}
+.logo-text{
+    margin-bottom: 3rem;
+    /* font-family: 'Cormorant Infant', serif; */
+font-family: 'El Messiri', sans-serif;
+font-style: 4.5rem !important;
+/* font-family: 'Montserrat Alternates', sans-serif; */
+/* font-family: 'Playfair Display SC', serif; */
+font-style: italic;
+width: 60%;
+text-align: center;
+/* margin: 0 40px 3rem 40px; */
+border-bottom: 3px solid orangered;
+}
+.first-text{
+    /* font-family: 'Cormorant Infant', serif; */
+/* font-family: 'Playfair Display SC', serif; */
+/*  */
+font-family: 'Montserrat Alternates', sans-serif;
+font-weight: 500;
+font-size: 1.2rem;
+word-spacing:6px;
+/*  */
+}
+h2{
+font-family: 'Playfair Display SC', serif;
+
+    /* font-family: 'Corm'orant Infant', serif; */
+
+}
+.fon-color-1{
+    /* border: 3px double orangered; */
+    /* background-color: rgba(255, 166, 0, 0.473); */
+}
+.card{
+    padding: 10px;
+    border: 3px solid orange;
+    box-shadow: 0 0 20px rgb(132, 180, 1);
+}
+.fon{
+    background-image: url(fon.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.about{
+    padding: 3rem 0;
+
+}
+.history{
+    background-color: rgba(201, 247, 75, 0.671);
+    padding: 1.5rem;
+}
+.about p{
+    font-size: 1.2rem;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.671);
+}
+.about p:nth-child(2){
+    background-color: rgba(201, 247, 75, 0.671);
+
+}
+.about p:nth-child(4){
+    background-color: rgba(201, 247, 75, 0.671);
+
+}
+.color-fon{
+    background-color: rgba(238, 255, 0, 0.589);
+}
